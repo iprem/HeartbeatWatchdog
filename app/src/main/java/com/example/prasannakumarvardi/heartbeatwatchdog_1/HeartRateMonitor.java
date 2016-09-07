@@ -21,8 +21,6 @@ import android.widget.TextView;
 /**
  * This class extends Activity to handle a picture preview, process the preview
  * for a red values and determine a heart beat.
- *
- * @author Justin Wetherell <phishman3579@gmail.com>
  */
 public class HeartRateMonitor extends Activity {
 
